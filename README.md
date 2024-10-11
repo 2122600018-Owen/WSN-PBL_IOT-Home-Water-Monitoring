@@ -6,14 +6,6 @@ Dengan sistem ini, pengguna dapat mengelola air secara lebih efisien, mencegah k
 # Diagram Arsitektur
 ![diagram arsitektur](https://github.com/user-attachments/assets/1f39079f-6660-4a60-ae13-af3b88021fef)
 
-# Timeline Pengembangan
-| Minggu | Tugas                                           | Tanggal                   |
-|--------|-------------------------------------------------|---------------------------|
-| 1      | Perencanaan dan pengajuan proposal              | 01-10-2024 s/d 07-10-2024 |
-| 2      | Pengembangan hardware dan pemrograman ESP32     | 08-10-2024 s/d 14-10-2024 |
-| 3      | Pengujian sistem IoT dan integrasi cloud        | 15-10-2024 s/d 21-10-2024 |
-| 4      | Finalisasi dan presentasi proyek                | 22-10-2024 s/d 28-10-2024 |
-
 # Tim Pengembang
 
 | Nama                   | Peran                          |
@@ -24,6 +16,14 @@ Dengan sistem ini, pengguna dapat mengelola air secara lebih efisien, mencegah k
 | Owen Pratama S.      | Software Developer              |
 | Aisyah                | Data Analyst                    |
 | Rheza Firmansyah      | UX/UI Designer                  |
+
+# Timeline Pengembangan
+| Minggu | Tugas                                           | Tanggal                   |
+|--------|-------------------------------------------------|---------------------------|
+| 1      | Perencanaan dan pengajuan proposal              | 01-10-2024 s/d 07-10-2024 |
+| 2      | Pengembangan hardware dan pemrograman ESP32     | 08-10-2024 s/d 14-10-2024 |
+| 3      | Pengujian sistem IoT dan integrasi cloud        | 15-10-2024 s/d 21-10-2024 |
+| 4      | Finalisasi dan presentasi proyek                | 22-10-2024 s/d 28-10-2024 |
 
 # Estimasi Biaya
 
@@ -39,4 +39,11 @@ Dengan sistem ini, pengguna dapat mengelola air secara lebih efisien, mencegah k
 | Cloud Platform            | -      | 0                 | 0          |
 | **Total Biaya**          | -      | -                 | **140,000**|
 
+# Hardware
+
+# Software
+
+# Spesifikasi Produk
+
+# Petunjuk Penggunaan
 
