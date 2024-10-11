@@ -7,3 +7,36 @@ Dengan sistem ini, pengguna dapat mengelola air secara lebih efisien, mencegah k
 ![diagram arsitektur](https://github.com/user-attachments/assets/1f39079f-6660-4a60-ae13-af3b88021fef)
 
 # Timeline Pengembangan
+| Minggu | Tugas                                           | Tanggal                   |
+|--------|-------------------------------------------------|---------------------------|
+| 1      | Perencanaan dan pengajuan proposal              | 01-10-2024 s/d 07-10-2024 |
+| 2      | Pengembangan hardware dan pemrograman ESP32     | 08-10-2024 s/d 14-10-2024 |
+| 3      | Pengujian sistem IoT dan integrasi cloud        | 15-10-2024 s/d 21-10-2024 |
+| 4      | Finalisasi dan presentasi proyek                | 22-10-2024 s/d 28-10-2024 |
+
+# Tim Pengembang
+
+| Nama                   | Peran                          |
+|-----------------------|--------------------------------|
+| Al Farruq R. A.      | Project Manager                 |
+| Farrel Juan M.       | Hardware Developer              |
+| M. Rizqi Atmajaya    | Project Tester                  |
+| Owen Pratama S.      | Software Developer              |
+| Aisyah                | Data Analyst                    |
+| Rheza Firmansyah      | UX/UI Designer                  |
+
+# Estimasi Biaya
+
+| Item                       | Jumlah | Harga Satuan (Rp) | Total (Rp) |
+|---------------------------|--------|-------------------|------------|
+| ESP32                     | 1      | 75,000            | 75,000     |
+| Sensor Ultrasonic         | 1      | 10,000            | 10,000     |
+| Sensor Flow               | 1      | 25,000            | 25,000     |
+| Adaptor 5V 1A            | 1      | 20,000            | 20,000     |
+| Kabel-Kabel               | 1      | 10,000            | 10,000     |
+| Cetak 3D                 | 1      | 0                 | 0          |
+| Biaya Pengujian          | -      | 0                 | 0          |
+| Cloud Platform            | -      | 0                 | 0          |
+| **Total Biaya**          | -      | -                 | **140,000**|
+
+
